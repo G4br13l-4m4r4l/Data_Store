@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\bin\Debug\net8.0\StoreArray.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\bin\Debug\net8.0\StoreArray.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\bin\Debug\net8.0\StoreArray.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\bin\Debug\net8.0\StoreArray.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\bin\Debug\net8.0\StoreArray.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\obj\Debug\net8.0\StoreArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\obj\Debug\net8.0\StoreArray.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\obj\Debug\net8.0\StoreArray.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\obj\Debug\net8.0\StoreArray.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\obj\Debug\net8.0\StoreArray.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\obj\Debug\net8.0\refint\StoreArray.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\obj\Debug\net8.0\StoreArray.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\obj\Debug\net8.0\StoreArray.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StoreArray\obj\Debug\net8.0\ref\StoreArray.dll
